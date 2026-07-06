@@ -42,10 +42,12 @@ Discord = qubixal // YouTube = @qubixalYT // B站 = q比工作室
 ---
 
 <div align="center">
-<img src="snake.svg" width="90%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qubixal/qubixal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qubixal/qubixal/output/github-contribution-grid-snake.svg">
+  <img alt="snake eheheh" src="https://raw.githubusercontent.com/qubixal/qubixal/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
-
----
 
 <div align="center">
 <sub>⭐ by <a href="https://github.com/qubixal">qubixal :3</a></sub>
